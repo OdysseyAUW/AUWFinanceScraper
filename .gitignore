@@ -10,3 +10,10 @@ env
 AUWFinanceScraper.egg-info/
 AUWFinanceScraper.egg-info/*
 AUWFinanceScraper
+
+.DS_Store
+
+./data/.DS_Store
+./data/stocks/.DS_Store
+
+src/__pycache__/*
