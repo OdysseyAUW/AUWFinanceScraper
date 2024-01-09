@@ -8,5 +8,5 @@ AUWFinanceScraper.egg-info/
 AUWFinanceScraper.egg-info/*
 AUWFinanceScraper
 
-**/DS_Store/
+**/.DS_Store
 **/__pycache__/
